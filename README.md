@@ -1,12 +1,12 @@
-🚀 Power BI Global Store Dashboard 
+<h1>🚀 Power BI Global Store Dashboard </h1>
 
 I recently created an interactive Power BI dashboard for a Global Store dataset, and I’m excited to share it! This project was a hands-on exercise in transforming raw data into meaningful insights for business decision-making.
-What I used:
+<h3>What I used:</h3>
 1.Power BI for visualizations and dashboard design
 2.Power Query for data cleaning and transformation
 3.DAX for custom calculations and metrics
 
-📈 Dashboard Highlights:
+<h3>📈 Dashboard Highlights:</h3>
 1.Slicers for dynamic filtering (region, category, segment)
 2.Cards to display key KPIs like Total Sales, Profit, and Quantity
 3.Pie & Donut Charts to visualize category and sub-category distributions
