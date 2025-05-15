@@ -2,10 +2,8 @@
 <h3 align="center">Transforming Data into Business Insights with Power BI</h3>
 
 <p align="center">
-  <img src="https://your-screenshot-link-here.png" alt="Power BI Dashboard Screenshot" width="600"/>
+  <img src="[https://your-screenshot-link-here.pn](https://github.com/monikasarik/Global-Store-Dashboard/blob/main/Screenshot%20(11).png)" alt="Power BI Dashboard Screenshot" width="600"/>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=monikasarik&label=Project%20Views&color=0e75b6&style=flat" alt="project views" /> </p>
 
 - 📊 I recently created a **Power BI dashboard** for a Global Store dataset to demonstrate how raw data can be turned into actionable insights.
 
