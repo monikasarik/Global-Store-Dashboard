@@ -1,19 +1,58 @@
-<h1>🚀 Power BI Global Store Dashboard </h1>
+<h1 align="center">🚀 Power BI Global Store Dashboard</h1>
+<h3 align="center">Transforming Data into Business Insights with Power BI</h3>
 
-I recently created an interactive Power BI dashboard for a Global Store dataset, and I’m excited to share it! This project was a hands-on exercise in transforming raw data into meaningful insights for business decision-making.
-<h3>What I used:</h3>
-1.Power BI for visualizations and dashboard design
-2.Power Query for data cleaning and transformation
-3.DAX for custom calculations and metrics
+<p align="center">
+  <img src="https://your-screenshot-link-here.png" alt="Power BI Dashboard Screenshot" width="600"/>
+</p>
 
-<h3>📈 Dashboard Highlights:</h3>
-1.Slicers for dynamic filtering (region, category, segment)
-2.Cards to display key KPIs like Total Sales, Profit, and Quantity
-3.Pie & Donut Charts to visualize category and sub-category distributions
-4.Map Visuals to show global sales performance by region
-Interactive and clean layout for ease of data exploration
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monikasarik&label=Project%20Views&color=0e75b6&style=flat" alt="project views" /> </p>
 
-💡 Key Takeaways:
- This project helped strengthen my skills in data modeling, visual storytelling, and user-focused design. It’s incredible how well-designed visuals can unlock insights that drive strategic decisions.
+- 📊 I recently created a **Power BI dashboard** for a Global Store dataset to demonstrate how raw data can be turned into actionable insights.
 
-hashtag#PowerBI hashtag#DashboardDesign hashtag#DataVisualization hashtag#BusinessIntelligence hashtag#DataAnalytics hashtag#DAX hashtag#PowerQuery hashtag#DataStorytelling
+- 🛠️ **What I used**:
+  - Power BI for visualizations and dashboard design  
+  - Power Query for data cleaning and transformation  
+  - DAX for custom calculations and metrics
+
+- 🎯 **Dashboard Features**:
+  - Dynamic slicers for filtering by Region, Segment, and Category  
+  - KPI Cards showing Total Sales, Profit, and Quantity  
+  - Donut & Pie Charts to display sub-category distributions  
+  - Map visualizations for global sales analysis  
+  - Interactive layout for an engaging experience
+
+- 📌 **Key Takeaways**:
+  - Enhanced my skills in **data modeling**, **visual storytelling**, and **user-centered design**.  
+  - Reinforced the power of visuals in driving strategic business decisions.
+
+---
+
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/monika-deokar-605832249/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monika deokar" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">🖥️ Languages and Tools Used:</h3>
+<p align="left">
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://seeklogo.com/images/P/power-bi-logo-F8B5554C45-seeklogo.com.png" alt="powerbi" width="40" height="40"/> 
+  </a> 
+  <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Microsoft_Power_Query_logo.svg/2048px-Microsoft_Power_Query_logo.svg.png" alt="power query" width="40" height="40"/> 
+  </a>
+  <a href="https://dax.guide/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.sqlbi.com/wp-content/uploads/2017/02/DAX-Guide-Logo.png" alt="dax" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+<h3 align="left">🧩 Project Setup</h3>
+
+```bash
+# Clone the repository
+git clone https://github.com/monikasarik/Global-Store-Dashboard.git
+
+# Open the .pbix file with Power BI Desktop
